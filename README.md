@@ -48,5 +48,5 @@ It is designed to provide fast and reliable emergency response in remote or netw
 
 
 
-## 📜 License
-This project is developed for educational and academic purposes.
+
+emic purposes.
