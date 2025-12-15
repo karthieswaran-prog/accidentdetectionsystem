@@ -47,6 +47,3 @@ It is designed to provide fast and reliable emergency response in remote or netw
 - Integration with emergency services
 
 
-
-
-emic purposes.
